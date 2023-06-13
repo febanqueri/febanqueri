@@ -1,9 +1,9 @@
-<h1 align="left">Hi 👻, I'm Felipe.</h1>
+### Hello 👻
 
-- 💻 Support Analyst at an ecommerce platform.
-- 🔭 I’m currently working at [Convertize](https://github.com/Convertize).
-- 🌱 I'm currently learning **Python, React, Next.JS**.
-- 👀 Looking at new things...
-<br><br>
+#### A support analyst by day ☼ and a amateur survival game player by night ☾
 
-<br><br>
+ 💻 Support Analyst at an ecommerce platform;<br>
+ 🔭 I’m currently working at [Convertize](https://github.com/Convertize);<br>
+ 🌱 I'm currently learning Django, Vue.JS and API Rest;<br>
+ ⚡️ Fun fact: I'm a huge fan of Harry Potter<br>
+ 👀 Looking at new things...
